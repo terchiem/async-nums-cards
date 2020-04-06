@@ -1,0 +1,27 @@
+body {
+  background-color: green;
+}
+p {
+  text-align: center;
+
+}
+.card {
+  position: absolute;
+
+}
+
+#result {
+  width: 100vh;
+  /* margin-top: 50px; */
+  margin:50px auto;
+}
+
+button {
+  background-color: grey;
+  color: white;
+  padding: 10px;
+}
+
+button:hover {
+  background-color: turquoise;
+}
